@@ -1,4 +1,1 @@
-# JOB-PORTAL
-THIS PROJECT IS BASED ON THE JOB SEARCH MODEL. 
-FRONTEND IS MADE USING HTML,CSS,JS and BOOTSTRAP.
-Django framework is used and sqlite3 database is used.
+
